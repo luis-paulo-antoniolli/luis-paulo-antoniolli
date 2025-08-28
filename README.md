@@ -1,5 +1,5 @@
 - 👋 Hi, I’m luis paulo antoniolli
-- 👀 I’m interested in CPU/GPU/NPU architecture
-- 🌱 I’m currently learning GPU architecure and industrial automation
+- 👀 I’m interested in NPU architecture
+- 🌱 I’m currently learning NPU architecure and industrial automation
 - 📫 How to reach me www.linkedin.com/in/luís-paulo-5a436b23a
 - ⚡ Fun fact: I'm only 17 years old

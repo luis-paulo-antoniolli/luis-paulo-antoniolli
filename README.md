@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning NPU architecure and industrial automation
 - 📫 How to reach me www.linkedin.com/in/luís-paulo-5a436b23a
 - ⚡ Fun fact: I'm only 18 years old
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-paulo-antoniolli)](https://github.com/anuraghazra/github-readme-stats)

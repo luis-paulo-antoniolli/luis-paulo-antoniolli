@@ -4,6 +4,6 @@
 - 📫 How to reach me www.linkedin.com/in/luís-paulo-5a436b23a
 - ⚡ Fun fact: I'm only 18 years old
   <div>
-    <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-paulo-antoniolli)]" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-paulo-antoniolli" />
   </div>
   

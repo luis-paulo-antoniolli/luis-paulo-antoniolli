@@ -1,4 +1,4 @@
-## 👨‍💻 Olá! Sou Pedro Henrique
+## 👨‍💻 Olá! Sou Luis Paulo
 
 Sou um desenvolvedor focado em **Systems Programming** e **Fullstack**, com paixão por entender como as coisas funcionam "debaixo do capô". Minha stack vai do Assembly ao Next.js.
 

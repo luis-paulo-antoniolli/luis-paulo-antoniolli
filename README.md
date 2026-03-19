@@ -48,7 +48,6 @@ Sou um desenvolvedor focado em **Systems Programming** e **Fullstack**, com paix
 <div align="center">
   <a href="https://github.com/luis-paulo-antoniolli">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luis-paulo-antoniolli&show_icons=true&theme=dracula&include_all_commits=true"/>
- <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luis-paulo-antoniolli
-&layout=compact&langs_count=10&theme=dracula"/>
+ <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luis-paulo-antoniolli&layout=compact&langs_count=10&theme=dracula"/>
   </a>
 </div>

@@ -24,8 +24,6 @@ Sou um desenvolvedor orientado a Systems Programming, com foco em domínio compl
 
 <br>
 
-> _"Código rápido, memória segura e infraestrutura imutável."_ ⚡
-
 ---
 
 ## 📊 Minhas Estatísticas

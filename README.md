@@ -14,7 +14,6 @@ Sou um desenvolvedor orientado a Systems Programming, com foco em domínio compl
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
 </div>
 
-
 **Infra & Ferramentas:**
 <div style="display: inline_block">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">

@@ -1,7 +1,6 @@
 ## 👨‍💻 Olá! Sou Luis Paulo
 
-Sou um desenvolvedor focado em **Systems Programming** e **Fullstack**, com paixão por entender como as coisas funcionam "debaixo do capô". Minha stack vai do Assembly ao Next.js.
-
+Sou um desenvolvedor orientado a Systems Programming, com foco em domínio completo da stack. Atuo do silício ao software, indo de Verilog e arquitetura de hardware até backend e automação em Python.
 
 ---
 

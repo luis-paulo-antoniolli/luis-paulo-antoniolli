@@ -6,7 +6,7 @@ Sou um desenvolvedor orientado a Systems Programming, com foco em domínio compl
 
 ### 🚀 Stack Tecnológica
 
-**Low-Level & Systems (Onde a mágica acontece):**
+**Low-Level & Systems**
 <div style="display: inline_block">
   <img align="center" alt="Verilog" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">

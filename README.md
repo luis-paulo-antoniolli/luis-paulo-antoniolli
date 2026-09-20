@@ -28,10 +28,7 @@ Sou um desenvolvedor orientado a Systems Programming, com foco em domínio compl
 
 ## 📊 Minhas Estatísticas
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=luis-paulo-antoniolli&show_icons=true&theme=dracula&include_all_commits=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-paulo-antoniolli&layout=compact&langs_count=10&theme=dracula&stats_format=percentages"/>
-
-</div>
+<img
+  height="160em"
+  src="https://github-readme-stats-fast.vercel.app/api?username=luis-paulo-antoniolli&show_icons=true&theme=dracula&include_all_commits=true"
+/>
